@@ -54,7 +54,7 @@ def get_agent():
     return agent
 agent=get_agent()
 
-st.subheader("TaskBot Manager")
+st.subheader("AI TaskBot Manager")
 if "messages" not in st.session_state:
     st.session_state.messages=[]
 

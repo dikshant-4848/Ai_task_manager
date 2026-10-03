@@ -1,0 +1,12 @@
+langchain
+langchain-openai
+langchain-google-genai
+langchain-anthropic
+dotenv
+streamlit
+# for ollama set up 
+langchain-ollama
+#for groq set up 
+langchain-groq
+# for search api 
+langchain-community
